@@ -22,7 +22,7 @@ To train the model from scratch :
 python main.py train none
 
 To predict the results :
-
 python main.py score best_bidaf.h5 
 
 *note here best_bidaf.h5 is the best trained model*
+
